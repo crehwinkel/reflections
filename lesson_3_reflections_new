@@ -1,0 +1,4 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+
+A clone copies all the files from one repository to another.  A fork essentially clones the files from one repository but keeps a link to remember where the files came from.   A branch is off the master line of code, that then gets merged tinto the master code eventually.
