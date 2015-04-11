@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+It's better to pull files manually so you only get the changes you intend to get.  Otherwise you could get changes made by other people 
+that you don't want.
