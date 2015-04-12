@@ -2,3 +2,6 @@ When would you want to create a remote repository rather than keeping all your w
 
 It's better to pull files manually so you only get the changes you intend to get.  Otherwise you could get changes made by other people 
 that you don't want.
+
+
+Just watched merge work.
